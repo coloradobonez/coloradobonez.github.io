@@ -14,7 +14,7 @@ Houses, Professors, Students
     - Rubeus Hagrid: Teaches Care of Magical Creatures
     - Remus Lupin: Taught Defense Against the Dark Arts
 </details>
-
+</br>
 <details> <summary>Ravenclaw</summary>
 
 - Founder
@@ -28,7 +28,7 @@ Houses, Professors, Students
     - Sybill Trelawney: Teaches Divination
     - Gilderoy Lockhart: Taught Defense Against the Dark Arts
 </details>
-
+</br>
 <details> <summary>Hufflepuff</summary>
 
 - Founder
@@ -40,7 +40,7 @@ Houses, Professors, Students
 - Professors of Note
     - Cuthbert Binns: Teaches History of Magic
 </details>
-
+</br>
 <details> <summary>Syltherin</summary>
 
 - Founder
