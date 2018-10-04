@@ -52,3 +52,4 @@ Houses, Professors, Students
 - Professors of Note
     - Dolores Umbridge: Taught Defence Against the Dark Arts
     - Horace Slughorn: Taught Potions
+</details>
