@@ -53,5 +53,6 @@ Houses, Professors, Students
     - Dolores Umbridge: Taught Defence Against the Dark Arts
     - Horace Slughorn: Taught Potions
 </details>
+</br>
 
 ![jessica-fadel-431249-unsplash](https://user-images.githubusercontent.com/42652171/46490380-7b8f1d80-c7cd-11e8-928c-817fe5c91f7b.jpg)
